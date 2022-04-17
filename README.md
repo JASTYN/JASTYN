@@ -22,4 +22,4 @@
 
 <summary>GitHub Stats</summary>
 
-![Gagandeep's github stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=merko&hide_border=true)
+![JASTYN's github stats](https://github-readme-stats.vercel.app/api?username=JASTYN&show_icons=true&theme=merko&hide_border=true)
