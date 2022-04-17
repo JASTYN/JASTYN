@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with projects.
 - 🥅 2022 Goals: Complete my on-going projects and contribute more in Open Source Projects
-- ⚡ My Hobby: I like to read books and play PC games.
+- ⚡ My Hobby: I like to read books and Travelling.
 
 
 ### Languages and Tools:
@@ -28,17 +28,3 @@
 <summary>GitHub Stats</summary>
 
 ![Gagandeep's github stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=merko&hide_border=true)
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Gibberish Text Detection using Markov Model](https://medium.com/ml-course-microsoft-udacity/gibberish-text-detection-using-markov-model-c4082f286985)
-- [Multicollinearity - How does it create a problem?](https://towardsdatascience.com/https-towardsdatascience-com-multicollinearity-how-does-it-create-a-problem-72956a49058)
-- [Going beyond traditional Sentiment Analysis Techniques](https://medium.com/analytics-vidhya/going-beyond-traditional-sentiment-analysis-technique-b9c91b313c07)
-- [Docker Made easy for Data Scientists](https://towardsdatascience.com/docker-made-easy-for-data-scientists-b32efbc23165)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@gaganmanku098)
-
----
