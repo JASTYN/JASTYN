@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Complete my on-going projects and contribute more in Open Source Projects
 * :telescope: Lecture at ICS College (https://www.ics.ac.ke/) 
 * :briefcase: To see my work, check out my [LinkedIn Profile](https://www.linkedin.com/in/manya-jastin/) or [Portfolio](https://github.com/JASTYN/).
-* :seedling: To see what I'm learning, check out my https://github.com/JASTYN/
+* :seedling: To see what I'm learning, check out my [Portfolio](https://github.com/JASTYN/).
 * :speech_balloon: Ask me about the work I do as a Lecturer
 * :dancers: I’d like to collaborate on side projects that can generate income.
 * :love_letter: You can reach me at jastynmanya@gmail.com
