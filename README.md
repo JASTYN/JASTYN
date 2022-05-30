@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate with projects.
 - 🥅 2022 Goals: Complete my on-going projects and contribute more in Open Source Projects
-- ⚡ My Hobby: I like to read books and Travelling.
-
 * :telescope: Lecture at ICS College (https://www.ics.ac.ke/) 
 * :briefcase: To see my work, check out my [LinkedIn Profile](https://www.linkedin.com/in/manya-jastin/) or [Portfolio](https://github.com/JASTYN/).
 * :seedling: To see what I'm learning, check out my https://github.com/JASTYN/
@@ -14,7 +12,7 @@
 * :dancers: I’d like to collaborate on side projects that can generate income.
 * :love_letter: You can reach me at jastynmanya@gmail.com
 * :smile: Pronouns: He/Him
-* :zap: In my free time, I enjoy traveling, eating good food, and listening to music.
+* :zap: In my free time, I enjoy traveling, eating good food, reading books and listening to music.
 
 ### Languages and Tools:
 
