@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with projects.
 - 🥅 2022 Goals: Complete my on-going projects and contribute more in Open Source Projects
-* :telescope: Lecture at ICS College (https://www.ics.ac.ke/) 
+* :telescope: Data analyst
 * :briefcase: To see my work, check out my [LinkedIn Profile](https://www.linkedin.com/in/manya-jastin/) or [Portfolio](https://github.com/JASTYN/).
 * :seedling: To see what I'm learning, check out my [Portfolio](https://github.com/JASTYN/).
 * :speech_balloon: Ask me about the work I do as a Lecturer
